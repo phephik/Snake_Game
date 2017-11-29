@@ -1,5 +1,3 @@
-# Snake_Game
-
 Overview
 ========
 
@@ -14,6 +12,6 @@ Compatible with ATmega16 MCU, MAX7219 driver and 8x8 matrix display
 Functionality
 =============
 
-blabla
+This program works as a simple snake game. The Snake is initializated after press reset button on 8x8 matrix display. The direrection can be changed by press button. The aim of the game is eat snacks. If snack is picked up, snake will be prolonged. It caused an increasing level of game. The game ends if snake have lenght of 64 leds on matrix display or player make mistake.
     
     
